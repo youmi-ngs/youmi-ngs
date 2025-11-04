@@ -21,7 +21,7 @@ In the future, I'm going to be a software programmer, a UI designer and a pretty
 **My universe :** -> [<img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sectory_README.jpg" height="30" alt="Sector Y Logo" style="vertical-align:middle;"/>](https://youmi.ngs.computer)
 
 ## Connect with me:
-<a href="https://twitter.com/naga_des19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naga_des19" height="40" width="40" style="background-color:white; padding:2px; border-radius:8px;"/></a>
+<a href="https://twitter.com/naga_das19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naga_das19" height="40" width="40" style="background-color:white; padding:2px; border-radius:8px;"/></a>
 <a href="https://instagram.com/youmi.photos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youmi.photos" height="40" width="40" style="background-color:white; padding:2px; border-radius:8px;"/></a>
 
 ## Languages and Tools:
