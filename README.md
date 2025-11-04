@@ -2,9 +2,20 @@
 
 **This is Youmi's README - Welcome to my README⭐️⭐️⭐️**  
 
-### About Me
+## About Me
 I'm a high school student based in Tokyo, Japan. <br>
 In the future, I'm going to be a software programmer, a UI designer and a pretty cure.
+<br>
+
+### My Favorites
+- 💻 Programming 
+- 🎨 UI/UX Design
+- ❤️ Disney (Daisy Duck, Hiro Hamada)
+- 📷 Photography 
+- 🎤 Aikatsu!
+- 🎬 Revue Starlight
+- 👾 Valorant
+
 <br>
 
 **My universe :** -> [<img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sectory_README.jpg" height="30" alt="Sector Y Logo" style="vertical-align:middle;"/>](https://youmi.ngs.computer)
