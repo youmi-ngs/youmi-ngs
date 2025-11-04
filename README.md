@@ -21,5 +21,5 @@ In the future, I'm going to be a software programmer, a UI designer and a pretty
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youmi-ngs&show_icons=true&locale=en&layout=compact" alt="youmi-ngs" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=youmi-ngs&show_icons=true&locale=en" alt="youmi-ngs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=youmi-ngs&show_icons=true&locale=en&layout=compact" alt="youmi-ngs" /> <img src="https://github-readme-stats.vercel.app/api?username=youmi-ngs&show_icons=true&locale=en" alt="youmi-ngs" />
 
