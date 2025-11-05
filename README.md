@@ -8,6 +8,7 @@ In the future, I'm going to be a software programmer, a UI designer and a Pretty
 <br>
 
 <img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sakura.jpg" height="400" alt="Sakura" />
+
 ## My Favorites
 
 ### 💻 Coding:
