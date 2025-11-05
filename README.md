@@ -7,8 +7,7 @@ I'm a high school student based in Tokyo, Japan. <br>
 In the future, I'm going to be a software programmer, a UI designer and a Pretty Cure✨🌸
 <br>
 
-<img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sakura.jpg" height="300" alt="Sakura" /> <img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/tokyotower.jpg" height="300" alt="Tokyo Tower" /> <img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/daisy.jpg" height="300" alt="Daisy Duck" />
-
+<img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sakura.jpg" height="400" alt="Sakura" />
 ## My Favorites
 
 ### 💻 Coding:
