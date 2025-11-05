@@ -10,24 +10,25 @@ In the future, I'm going to be a software programmer, a UI designer and a Pretty
 <img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sakura.jpg" height="500" alt="Sakura" />
 
 ## My Favorites
-### **💻 Coding:**
-` - Swift ` <span style="color:gray;font-size:90%"> *// I'm making a app for shutterbugs now: Shaka*</span> <br>
-` - Web` *// I'm creating my universe: Sector Y*</span> <br>
 
-### **📷 Photography:**
-` - Canon EOS R50` <span style="color:gray;font-size:90%"> *// My buddy of my adventure*</span> <br>
+### 💻 Coding:
+`- Swift` *// Developing an app for Shutterbugs right now: Shaka* <br>
+`- Web` *// Designing my universe: Sector Y* <br>
 
-### **❤️ Disney:**
-` - Daisy Duck` <span style="color:gray;font-size:90%"> *// My queen*</span> <br>
-` - Hiro Hamada` <span style="color:gray;font-size:90%"> *// My tech hero*</span><br>
+### 📷 Photography:
+`- Canon EOS R50` *// My adventure buddy* <br>
 
-### **🎬 Anime / 2.5D:**
-` - Revue Starlight` <span style="color:gray;font-size:90%"> *// I love Shiro, Minku and Mei-fan*</span> <br>
-` - Aikatsu!` <span style="color:gray;font-size:90%"> *// Aoi houney is cool*</span> <br>
+### ❤️ Disney:
+`- Daisy Duck` *// My queen* <br>
+`- Hiro Hamada` *// My tech hero* <br>
 
-### **👾 Games:**
-` - Valorant` <span style="color:gray;font-size:90%"> *// I use Jett and Waylay. I'm still a noob lol*</span> <br>
-` - Genshin Impact` <span style="color:gray;font-size:90%"> *// Raiden Shogun and Yae Miko are awesome*</span> <br>
+### 🎬 Anime / 2.5D:
+`- Revue Starlight` *// I love Shiro, Minku and Mei-fan* <br>
+`- Aikatsu!` *// Aoi honey is cool* <br>
+
+### 👾 Games:
+`- Valorant` *// I play Jett and Waylay. I'm still a noob lol* <br>
+`- Genshin Impact` *// Raiden Shogun and Yae Miko are awesome* <br>
 
 **My universe :** [<img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sectory_README.jpg" height="30" alt="Sector Y Logo" style="vertical-align:middle;"/>](https://youmi.ngs.computer)
 
