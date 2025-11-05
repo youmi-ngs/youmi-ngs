@@ -11,28 +11,23 @@ In the future, I'm going to be a software programmer, a UI designer and a Pretty
 
 ## My Favorites
 ### **💻 Coding:**
-> Swift //I'm making a app for shutterbugs now: Shaka
-> Web //I'm creating my universe: Sector Y
-<br>
+> Swift //I'm making a app for shutterbugs now: Shaka<br>
+> Web //I'm creating my universe: Sector Y<br>
 
 ### **📷 Photography:**
-> Canon EOS R50 //My buddy of my adventure
-<br>
+> Canon EOS R50 //My buddy of my adventure<br>
 
 ### **❤️ Disney:**
-> Daisy Duck //My queen
-> Hiro Hamada //My tech hero
-<br>
+> Daisy Duck //My queen<br>
+> Hiro Hamada //My tech hero<br>
 
 ### **🎬 Anime / 2.5D:**
-> Revue Starlight
-> Aikatsu!
-<br>
+> Revue Starlight<br>
+> Aikatsu!<br>
 
 ### **👾 Games:**
-> Valorant //I use Jett and Waylay. I'm still a noob lol
-> Genshin Impact //Raiden Shogun and Yae Miko are awesome
-<br>
+> Valorant //I use Jett and Waylay. I'm still a noob lol<br>
+> Genshin Impact //Raiden Shogun and Yae Miko are awesome<br>
 
 **My universe :** [<img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sectory_README.jpg" height="30" alt="Sector Y Logo" style="vertical-align:middle;"/>](https://youmi.ngs.computer)
 
