@@ -17,7 +17,7 @@ In the future, I'm going to be a software programmer, a UI designer and a Pretty
 `- Web` *`// Designing my universe: Sector Y`* <br>
 
 ### 📷 Photography:
-`- Canon EOS R50` *`// My adventure budd`y* <br>
+`- Canon EOS R50` *`// My adventure buddy`* <br>
 
 ### ❤️ Disney:
 `- Daisy Duck` *`// My queen`* <br>
