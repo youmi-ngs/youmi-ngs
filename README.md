@@ -1,28 +1,43 @@
 # Hello, world!👋
 
-**This is Youmi's README - Welcome to my README⭐️⭐️⭐️**  
+**WELCOME TO YOUMI'S README⭐️⭐️⭐️**  
 
 ## About Me
 I'm a high school student based in Tokyo, Japan. <br>
-In the future, I'm going to be a software programmer, a UI designer and a pretty cure.
+In the future, I'm going to be a software programmer, a UI designer and a Pretty Cure✨🌸
 <br>
 
 <img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sakura.jpg" height="500" alt="Sakura" />
 
-### My Favorites
-- 💻 Programming 
-- 📷 Photography 
-- ❤️ Disney ( Daisy Duck, Hiro Hamada)
-- 🎬 Anime ( Revue Starlight,  Aikatsu! )
-- 👾 Game ( Valorant,　Genshin Impact )
-
+## My Favorites
+### **💻 Coding:**
+> Swift //I'm making a app for shutterbugs now: Shaka
+> Web //I'm creating my universe: Sector Y
 <br>
 
-**My universe :** -> [<img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sectory_README.jpg" height="30" alt="Sector Y Logo" style="vertical-align:middle;"/>](https://youmi.ngs.computer)
+### **📷 Photography:**
+> Canon EOS R50 //My buddy of my adventure
+<br>
+
+### **❤️ Disney:**
+> Daisy Duck //My queen
+> Hiro Hamada //My tech hero
+<br>
+
+### **🎬 Anime / 2.5D:**
+> Revue Starlight
+> Aikatsu!
+<br>
+
+### **👾 Games:**
+> Valorant //I use Jett and Waylay. I'm still a noob lol
+> Genshin Impact //Raiden Shogun and Yae Miko are awesome
+<br>
+
+**My universe :** [<img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sectory_README.jpg" height="30" alt="Sector Y Logo" style="vertical-align:middle;"/>](https://youmi.ngs.computer)
 
 ## Connect with me:
-<a href="https://twitter.com/naga_das19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naga_das19" height="40" width="40" style="background-color:white; padding:2px; border-radius:8px;"/></a>
-<a href="https://instagram.com/youmi.photos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="youmi.photos" height="40" width="40" style="background-color:white; padding:2px; border-radius:8px;"/></a>
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/naga_das19) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/youmi.photos)
 
 ## Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" style="background-color:white; padding:2px; border-radius:8px;"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="background-color:white; padding:2px; border-radius:8px;"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" style="background-color:white; padding:2px; border-radius:8px;"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="background-color:white; padding:2px; border-radius:8px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1024px-Blender_logo_no_text.svg.png?20210507122249" alt="blender" width="40" height="40" style="background-color:white; padding:2px; border-radius:8px;"/>
