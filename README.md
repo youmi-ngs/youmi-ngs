@@ -40,9 +40,3 @@ In the future, I'm going to be a software programmer, a UI designer and a Pretty
 
 ## My wonderful friends:
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" alt="Claude" width="40" heigh="40" style="background-color:white; padding:2px; border-radius:8px;"/> <img src="https://upload.vectorlogo.zone/logos/openai/images/2d0c228b-22e2-44ae-8fbd-d1d7646605c2.svg" alt="OpenAI" width="40" height="40" style="background-color:white; padding:2px; border-radius:8px;"/> <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" width="40" heigh="40" alt="GitHub Copilot" style="background-color:white; padding:2px; border-radius:8px;"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=youmi-ngs&show_icons=true&locale=en&layout=compact" alt="youmi-ngs" /> <img src="https://github-readme-stats.vercel.app/api?username=youmi-ngs&show_icons=true&locale=en" alt="youmi-ngs" />
-
-
