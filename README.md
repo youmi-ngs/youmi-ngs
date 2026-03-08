@@ -29,7 +29,7 @@ In the future, I'm going to be a software programmer, a UI designer and a Pretty
 - **Aikatsu!** ...  *Aoi honey is cool* <br>
 
 ### 👾 Games:
-- **Valorant** ...  *I play Jett and Waylay. I'm still a noob lol* <br>
+- **Valorant** ...  *I play Astra and Waylay. I'm still a noob lol* <br>
 - **Genshin Impact** ... *Raiden Shogun and Yae Miko are awesome* <br>
 
 ## Connect with me:
