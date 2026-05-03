@@ -5,8 +5,8 @@
 ## About Me
 [<img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sectory_README.jpg" height="30" alt="Sector Y Logo" style="vertical-align:middle;"/>](https://youmi.ngs.computer)<br>
 
-I'm a high school student based in Tokyo, Japan. <br>
-In the future, I'm going to be a software programmer, a UI designer and a Pretty Cure✨🌸
+I'm a freshman at university based in Tokyo, Japan. <br>
+In the future, I'll be a programmer, a UI designer and a magical girl✨🌸
 <br>
 
 <img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sakura.jpg" height="400" alt="Sakura" />
@@ -23,14 +23,13 @@ In the future, I'm going to be a software programmer, a UI designer and a Pretty
 ### ❤️ Disney:
 - **Daisy Duck** ...  *My queen* <br>
 - **Hiro Hamada** ...  *My tech hero* <br>
+- **'Olu Mel** ...  *Our super cute turtle* <br>
 
 ### 🎬 Anime / 2.5D:
-- **Revue Starlight** ...  *I love Shiro, Minku and Mei-fan* <br>
-- **Aikatsu!** ...  *Aoi honey is cool* <br>
+- **Revue Starlight** ...  *I love Shiro, Minku ,Mei-fan and Yachiyo* <br>
 
 ### 👾 Games:
 - **Valorant** ...  *I play Astra and Waylay. I'm still a noob lol* <br>
-- **Genshin Impact** ... *Raiden Shogun and Yae Miko are awesome* <br>
 
 ## Connect with me:
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/naga_das19) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/youmi.photos)
