@@ -7,6 +7,7 @@
 
 I'm a freshman at university based in Tokyo, Japan. <br>
 In the future, I'll be a programmer, a UI designer and a magical girl✨🌸<br>
+I love photography and Disney.
 
 <img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sakura.jpg" height="400" alt="Sakura" />
 
