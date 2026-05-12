@@ -1,6 +1,6 @@
-# Hello, world!👋
+# Hello, world!
 
-**WELCOME TO YOUMI'S README⭐️⭐️⭐️**  
+**Welcome to Youmi's README**  
 
 ## About Me
 [<img src="https://github.com/youmi-ngs/youmi-ngs/raw/main/assets/sectory_README.jpg" height="30" alt="Sector Y Logo" style="vertical-align:middle;"/>](https://youmi.ngs.computer)<br>
